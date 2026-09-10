@@ -1,5 +1,6 @@
 package main.java.incidents;
 
-public class SearchIncident {
-    
+public class SearchIncident extends Incident {
+    private int missingPersons;
+    private double searchArea;
 }
