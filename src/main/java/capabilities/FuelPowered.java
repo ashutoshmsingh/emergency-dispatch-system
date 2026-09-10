@@ -1,4 +1,4 @@
-package main.java.dispatch.capabilities;
+package main.java.capabilities;
 
 public class FuelPowered {
     

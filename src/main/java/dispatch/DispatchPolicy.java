@@ -1,4 +1,4 @@
-package main.java.dispatch.dispatch;
+package main.java.dispatch;
 
 public class DispatchPolicy {
     

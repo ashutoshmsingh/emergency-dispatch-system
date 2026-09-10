@@ -1,4 +1,4 @@
-package main.java.dispatch.incidents;
+package main.java.incidents;
 
 public class MedicalIncident {
     

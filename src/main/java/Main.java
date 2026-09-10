@@ -1,4 +1,4 @@
-package main.java.dispatch;
+package main.java;
 
 public class Main {
     
